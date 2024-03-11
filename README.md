@@ -1,4 +1,4 @@
-Nhóm 22
+Nhóm 22.
 Thành viên nhóm: 
 - Nguyễn Quang Anh msv: 20021217
 - Trần Văn Lương msv: 20021246
