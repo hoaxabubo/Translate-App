@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G/RdXV9S6NgR49K39Usql6JGOujcshzlVeW9wiMU4czwPtcA/z71oFiLiwQj6jXXEPjpu2PQ/UjtjkOeaTAVsA==",
+  "dgSpecHash": "O0XhbFHyd1S96EXuxFOCY5fuqkZAK58ToSyNQaudTV2EiUhZKs0wmLUiq/eqxMQy0a01azV/pBOGKZ567OIJIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\Software-Engineering-Assignment-Group-22\\WinFormsApp2\\WinFormsApp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.ai.translation.document\\1.0.0\\azure.ai.translation.document.1.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
